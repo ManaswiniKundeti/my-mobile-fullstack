@@ -1,0 +1,17 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# mac
+.DS_Store
+
+# python
+backend/.venv/
+backend/__pycache__/
+backend/*.pyc
+
+# android
+android/.gradle/
+android/**/build/
+android/.idea/
+android/*.iml

@@ -1,6 +1,3 @@
-# my-mobile-fullstack
-First mobile full stack app
-
 # My Mobile Full-Stack Learning Project (Android + FastAPI)
 
 This repo is my first end-to-end “mobile full stack” project:
@@ -100,10 +97,9 @@ android:usesCleartextTraffic="true"
 ---
 ### Screenshots
 
-- screenshots/backend_swagger.png
-- screenshots/backend_health.png
-- screenshots/backend_home.png
-- screenshots/android_ui.png
+- [screenshots/backend_swagger.png](https://github.com/ManaswiniKundeti/my-mobile-fullstack/blob/main/screenshots/backend_swagger.png)
+- [screenshots/backend_home.png](https://github.com/ManaswiniKundeti/my-mobile-fullstack/blob/main/screenshots/backend_home.png)
+- [screenshots/android_ui.png](https://github.com/ManaswiniKundeti/my-mobile-fullstack/blob/main/screenshots/android_ui.png)
 
 ---
 
